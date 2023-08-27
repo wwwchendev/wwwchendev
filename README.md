@@ -23,7 +23,3 @@
 
 ## [🌠Star Lists](https://github.com/effiechen22?tab=stars)  
 
-- [Git規範](https://github.com/stars/effiechen22/lists/git%E8%A6%8F%E7%AF%84)  
-   - pcottle / learnGitBranching  
-   - UvDream / git-commit-lint-vscode  
-- CSS-Guidelines - CSS 筆記、建議與指導方針總整理。  
