@@ -1,5 +1,6 @@
 
 ![wwwchendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwchendev&show_icons=true&theme=apprentice)
+![wwwchendev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwchendev&layout=compact&theme=apprentice)
 
 ## Repositories📦 
 - MyNotes🔐 - 存放技術筆記。  
