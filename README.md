@@ -8,6 +8,7 @@
 
 
 ## Side Projects
+<!--
 - 2023-08-15 𝘾𝙊𝘿𝙀𝙋𝙀𝙉. [BMI Calculator 線上BMI計算機](https://codepen.io/effiechen22/pen/poQMaMj)
 - 2023-08-08 [ONLINE TODO LIST](https://effiechen22.github.io/course_javascript_TodoList-2/) - Bootstrap、串接第三方API、註冊登入功能
 - 2023-07-28 [Produce農產品比價網](https://effiechen22.github.io/course_javascript_CropPriceTable/) - Javascript、以OPEN DATA進行JSON資料排序
@@ -23,7 +24,8 @@
 - 2023-05-20 [SweetTaste](https://effiechen22.github.io/prj_SweetTaste/contact.html) - CSS切版練習、多頁網站
 
 - 2023-05-19 𝘾𝙊𝘿𝙀𝙋𝙀𝙉. [FLEX 修煉時光屋](https://codepen.io/collection/xKJdGV) - CSS切版:Flex練習
+-->
 
 
-## [🌠Star Lists](https://github.com/effiechen22?tab=stars)  
+## [🌠Star Lists](https://github.com/wwwchendev?tab=stars)  
 
