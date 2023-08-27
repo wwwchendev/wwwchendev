@@ -6,6 +6,9 @@
 - MyNotes🔐 - 存放技術筆記。  
 - 🚧Blog - 內容建置中
 
+## Todos
+- Swagger UI - 練習寫API文件
+- Nodemon - 自動監聽變更
 
 ## Side Projects
 - 2023-08-27 [Express + Firebase 設計 RESTful API Todolist](https://github.com/wwwchendev/ExpressFirebase-RESTfulAPITodo)
