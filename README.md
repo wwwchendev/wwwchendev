@@ -1,3 +1,6 @@
+
+![wwwchendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwchendev&show_icons=true&theme=apprentice)
+
 ## Repositories📦 
 - MyNotes🔐 - 存放技術筆記。  
 - 🚧Blog - 內容建置中
