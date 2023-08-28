@@ -9,9 +9,10 @@
 ## Todos
 - Swagger UI - 練習寫API文件
 - Nodemon - 自動監聽變更
-  1. 安裝 npm install --save-dev nodemon
-  2. 撰寫npm script "start": "nodemon app.js"
-  3. 執行cli npm start
+  - 安裝 npm install --save-dev nodemon
+  - 撰寫npm script "start": "nodemon app.js"
+  - 執行cli npm start
+  - 用 ^C 來中斷指令 Terminate batch job (Y/N)? y
 
 ## Side Projects
 - 2023-08-27 [Express + Firebase 設計 RESTful API Todolist](https://github.com/wwwchendev/ExpressFirebase-RESTfulAPITodo)
