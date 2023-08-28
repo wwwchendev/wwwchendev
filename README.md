@@ -33,6 +33,10 @@
 ## Todos
 - Swagger UI - 練習寫API文件
 - [VSCode ESLint, Prettier & Airbnb Style Guide Setup](https://www.youtube.com/watch?v=SydnKbGc7W8&t=72s)
+- npm csurf
+- npm connect-flash
+- npm nodemailer
+- npm serve-favicon
 - Nodemon - 自動監聽變更
   - 安裝 npm install --save-dev nodemon
   - 撰寫npm script "start": "nodemon app.js"
