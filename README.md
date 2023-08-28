@@ -32,6 +32,7 @@
 
 ## Todos
 - Swagger UI - 練習寫API文件
+- [VSCode ESLint, Prettier & Airbnb Style Guide Setup](https://www.youtube.com/watch?v=SydnKbGc7W8&t=72s)
 - Nodemon - 自動監聽變更
   - 安裝 npm install --save-dev nodemon
   - 撰寫npm script "start": "nodemon app.js"
@@ -60,4 +61,5 @@
 
 
 ## [🌠Star Lists](https://github.com/wwwchendev?tab=stars)  
+
 
