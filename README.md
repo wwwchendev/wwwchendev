@@ -1,7 +1,8 @@
 
 ![wwwchendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwchendev&show_icons=true&theme=apprentice)
-![wwwchendev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwchendev&layout=compact&theme=apprentice)
+![wwwchendev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwchendev&layout=compact&theme=apprentice)  
 
+![github-profile-views-counter](https://komarev.com/ghpvc/?username=wwwchendev&style=for-the-badge&color=orange)
 ## Repositories📦 
 - MyNotes🔐 - 存放技術筆記。  
 - 🚧Blog - 內容建置中
