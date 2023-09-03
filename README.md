@@ -26,10 +26,6 @@
 </p>
 
 
-## Repositories📦 
-- MyNotes🔐 - 存放技術筆記。  
-- 🚧Blog - 內容建置中
-
 ## Todos
 - Swagger UI - 練習寫API文件
 - [VSCode ESLint, Prettier & Airbnb Style Guide Setup](https://www.youtube.com/watch?v=SydnKbGc7W8&t=72s)
