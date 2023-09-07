@@ -1,7 +1,9 @@
 
 ![wwwchendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwchendev&show_icons=true&theme=apprentice)
-
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=wwwchendev&style=for-the-badge&color=orange)
+## LeetCode
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/wwwchendev)](https://leetcode.com/wwwchendev)
 
 ## Languages and Tools
 <p align="left">   
@@ -58,8 +60,4 @@
 
 - 2023-05-19 𝘾𝙊𝘿𝙀𝙋𝙀𝙉. [FLEX 修煉時光屋](https://codepen.io/collection/xKJdGV) - CSS切版:Flex練習
 -->
-
-
-## [🌠Star Lists](https://github.com/wwwchendev?tab=stars)  
-
 
