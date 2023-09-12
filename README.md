@@ -4,8 +4,7 @@
 ## LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/wwwchendev)](https://leetcode.com/wwwchendev)
-
-- [2023 iThome 鐵人賽 | LeetCode-30 Days of JavaScript](https://ithelp.ithome.com.tw/users/20162732/ironman/6735)
+- <a href="https://ithelp.ithome.com.tw/users/20162732/ironman/6735" target="_blank" >2023 iThome 鐵人賽 | LeetCode-30 Days of JavaScript</a> 
 
 ## Languages and Tools
 <p align="left">   
