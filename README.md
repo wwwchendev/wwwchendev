@@ -5,6 +5,8 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/wwwchendev)](https://leetcode.com/wwwchendev)
 
+- [2023 iThome 鐵人賽 | LeetCode-30 Days of JavaScript](https://ithelp.ithome.com.tw/users/20162732/ironman/6735)
+
 ## Languages and Tools
 <p align="left">   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
