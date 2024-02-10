@@ -9,7 +9,7 @@
 
 
 <details>
-  <summary>Github Stat</summary>
+  <summary>Stat</summary>
   
   ![wwwchendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwchendev&show_icons=true&theme=apprentice)
   
