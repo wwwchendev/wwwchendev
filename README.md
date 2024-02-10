@@ -8,12 +8,12 @@
 - [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
 
 
-  <details>
-    <summary>Github Stat</summary>
+<details>
+  <summary>Github Stat</summary>
   
   ![wwwchendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwchendev&show_icons=true&theme=apprentice)
   
   ![github-profile-views-counter](https://komarev.com/ghpvc/?username=wwwchendev&style=for-the-badge&color=orange)
   
   
-  </details>
+</details>
