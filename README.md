@@ -25,12 +25,4 @@
   ![github-profile-views-counter](https://komarev.com/ghpvc/?username=wwwchendev&style=for-the-badge&color=orange)
   </details>
   
-  
-  <details>
-    <summary>Leetcode Challenge</summary>
-  
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/wwwchendev)](https://leetcode.com/wwwchendev)
-  </details>
-
-
 </details>
